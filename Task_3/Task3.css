@@ -1,0 +1,43 @@
+
+
+    /* Selectors */
+
+    /*1) Element Selectors */
+
+    h3{
+        background-color: darkblue; color: white;
+    }
+
+    /*2) Class Selector */
+
+    /* when we use class we write like this .op {} */
+
+    .op { 
+
+        background-color: blueviolet;
+        color: white;
+        font-size: larger;
+    }
+
+    /* 3) Id Selector */
+
+    #w{
+        color: white;
+        background-color: darkorange;
+        font-size: 30px;
+        margin: 0;
+    }
+
+    /* 4) Group Selector */
+
+    h2,h3{
+        background-color: red;
+    
+    }
+
+    /* 5) Universal Selector */
+
+    *{
+        background-color: dodgerblue;
+
+    }
